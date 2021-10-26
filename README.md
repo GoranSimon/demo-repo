@@ -1,4 +1,4 @@
-# Header Test
+# Magic Guitar
 ## How the Brain works
 ### Ahoi TEST
 ## Subheader nicht gerade kreativ aber beinah...
